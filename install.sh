@@ -3,7 +3,7 @@ sudo apt-get install zenity
    29  cd
    30  cd morpheus/
    31  sudo apt-get update
-   32  sudo ./morpheus.sh
+   32  
    33  sudo apt-get install  sslstrip
    34  sudo apt-get install  dnspython
    35  sudo apt-get install  dnspython2
@@ -16,7 +16,7 @@ sudo apt-get install zenity
    42  sudo pip install dnspython
    43  sudo ./morpheus.sh
    44  clear
-   45  exit
+   45  
    46  cd morpheus/
    47  sudo ./morpheus.sh 
 
